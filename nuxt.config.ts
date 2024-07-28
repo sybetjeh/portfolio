@@ -78,7 +78,4 @@ export default defineNuxtConfig({
         // disallow admin cms route
         disallow: ["/admin"],
     },
-    generate: {
-        fallback: true, // Ensures a fallback 404.html page is generated
-    },
 });
