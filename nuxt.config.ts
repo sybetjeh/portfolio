@@ -1,4 +1,4 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
+// nuxt.config.ts
 export default defineNuxtConfig({
     devtools: { enabled: true },
     modules: [
@@ -65,12 +65,9 @@ export default defineNuxtConfig({
     },
     nitro: {
         prerender: {
-            crawlLinks: true,
-            routes: [
-                "/_ipx/h_512/img/hu_tao_qixia.jpg",
-                "/_ipx/h_1024/img/hu_tao_qixia.jpg",
-                "/robots.txt"
-            ],
+            // Disable prerendering by leaving routes empty or setting crawlLinks to false
+            routes: [],
+            crawlLinks: false,
             autoSubfolderIndex: false
         },
     },
