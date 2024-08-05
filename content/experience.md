@@ -23,10 +23,10 @@ Here are some of the companies I've worked for. Many of my work have been either
     Worked at Hostaris, providing VPS hosting services (company is no longer operational).
     ::   
     ::card{icon="simple-icons:github" card-title="Ctrlpanel.gg" class-list="bg-green-500" href="https://Ctrlpanel.gg"}
-    Volunteer at Ctrlpanel.gg, helping users with technical problems and responding to inquiries.
+    Volunteered at Ctrlpanel.gg, helping users with technical problems and responding to inquiries.
     :: 
     ::card{icon="simple-icons:digitalocean" card-title="ApexAxis" class-list="bg-green-500" href="https://apexaxis.nl"}
-    Worked at ApexAxis, managing general systems and ensuring uptime.
+    Working at ApexAxis, managing general systems and ensuring uptime.
     ::
     ::card{icon="simple-icons:wechat" card-title="EmeraldChat" class-list="bg-green-500" href="https://emeraldchat.com"}
     Volunteer at EmeraldChat, moderating the platform and answering inquiries from the user base.
