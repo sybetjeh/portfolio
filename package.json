@@ -18,7 +18,7 @@
     "@types/seedrandom": "^3.0.8",
     "nuxt": "^3.7.0",
     "nuxt-icon": "^0.5.0",
-    "nuxt-link-checker": "^2.1.8",
+    "nuxt-link-checker": "^3.1.0",
     "nuxt-og-image": "^2.1.1",
     "nuxt-simple-robots": "^3.1.6",
     "sitemap": "^8.0.0"
