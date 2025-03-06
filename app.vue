@@ -2,7 +2,7 @@
   <div ref="root" @mousemove="mouseMove" @mousewheel="mouseWheel" @DOMMouseScroll="mouseWheel" class="h-screen w-screen max-w-full absolute">
     <div ref="topbar"
       class="fixed top-4 left-[50vw] -translate-x-1/2 bg-[rgba(255,255,255,0.1)] rounded backdrop-blur-sm border border-[rgba(255,255,255,0.1)] shadow-xl w-[85%] md:w-[40rem] h-12 z-10 flex items-center justify-between select-none">
-      <NuxtLink class="m-4 font-medium text-white fixed no-underline" to="/">sybe</NuxtLink>
+      <NuxtLink class="m-4 font-medium text-white fixed no-underline" to="/">max</NuxtLink>
       <div class="m-auto flex flex-row h-full">
         <div v-for="page in pages" :key="page._path"
           class="group h-full transition-colors hover:bg-[rgba(255,255,255,0.1)] flex justify-center items-center">
@@ -52,7 +52,7 @@
       </div>
       <div ref="container" class="flex flex-col w-2/3 h-1/3 perspective-[1800px]">
         <div ref="name" class="font-bold text-5xl rotate-y-45 translate-z-8">
-          sybe
+          max
         </div>
         <span ref="desc" class="font-text text-3xl rotate-y-45 translate-z-5">customer support rep</span>
       </div>

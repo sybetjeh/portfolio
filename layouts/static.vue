@@ -23,13 +23,13 @@ import Giscus from "@giscus/vue";
 const site = useSiteConfig();
 const route = useRoute();
 useHead({
-    title: `sybe - ${route.path}`,
-    link: [{ rel: 'canonical', href: `https://sybeke.be${route.path}` }]
+    title: `max - ${route.path}`,
+    link: [{ rel: 'canonical', href: `https://maximaal.org${route.path}` }]
 });
 const { page } = useContent();
 if (page.value) {
     useSeoMeta({
-        ogTitle: route.path === "/" ? "sybe" : page.value.title,
+        ogTitle: route.path === "/" ? "max" : page.value.title,
         description: page.value.description,
         ogDescription: page.value.description,
         ogImage: page.value.image,
@@ -38,7 +38,7 @@ if (page.value) {
     });
     if (!page.value.image) {
         defineOgImage({
-            title: route.path === "/" ? "sybe" : page.value.title,
+            title: route.path === "/" ? "max" : page.value.title,
             description: page.value.description,
             component: "Page",
         });

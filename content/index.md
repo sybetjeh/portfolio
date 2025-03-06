@@ -6,7 +6,7 @@ description: Intro, who am I?
 ---
 # **Who am I**
         
-Hey there! I'm Sybe, a customer support specialist with a knack for experimenting with servers. I have a passion for helping users and ensuring they have the best experience possible. I enjoy diving into server configurations and testing new setups to improve efficiency and performance. My goal is to provide top-notch support while continuously exploring innovative solutions in the world of servers.
+Hey there! I'm Max, a customer support specialist with a knack for experimenting with servers. I have a passion for helping users and ensuring they have the best experience possible. I enjoy diving into server configurations and testing new setups to improve efficiency and performance. My goal is to provide top-notch support while continuously exploring innovative solutions in the world of servers.
 
 # **Technology**
 ::container
@@ -39,12 +39,9 @@ Hey there! I'm Sybe, a customer support specialist with a knack for experimentin
 
 
 # **Contact**
-You can find me on the following platforms. I'm most active on Discord, Github & email.
+You can find me on the following platforms. I'm the fastest reachable through email.
 
-Discord: [sybe.](https://discord.com/users/115011400077672453 "sybe.")
-
-Github: [sybetjeh](https://github.com/sybetjeh "sybetjeh")
-
-Email: [me](mailto:me@sybeke.be "sybeke")
+Discord: [max](https://discord.com/users/115011400077672453 "max")
+Email: [me](mailto:me@maximaal.org "max")
 
 I look forward to working with you!
