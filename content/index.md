@@ -41,7 +41,7 @@ Hey there! I'm Max, a customer support specialist with a knack for experimenting
 # **Contact**
 You can find me on the following platforms. I'm the fastest reachable through email.
 
-Discord: [max](https://discord.com/users/115011400077672453 "max")
+Discord: [max](https://discord.com/users/115011400077672453 "max (maxiimaal)")
 Email: [me](mailto:me@maximaal.org "max")
 
 I look forward to working with you!
